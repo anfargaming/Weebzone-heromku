@@ -6,3 +6,5 @@
 Use this Repo as `UPSTREAM_REPO` Otherwise Fork or Import it as Private.
 
 Goto [Heromku](https://github.com/kctelegram5/Heromku) Repo & Deploy From There 
+
+> **Note** : Don't try to do Workflow method in this repo.
